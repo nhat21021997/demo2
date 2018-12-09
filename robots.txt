@@ -3,6 +3,11 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
+<<<<<<< HEAD
 ## nguyen van nhat
 ## lam vo anh nhe
 nhat hai.....
+=======
+?????????????????
+nguyeexn nhat
+>>>>>>> nhanh2
